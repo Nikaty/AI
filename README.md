@@ -14,3 +14,7 @@ or
 ```
 npm i
 ```
+# How to run
+```
+npm strat
+```

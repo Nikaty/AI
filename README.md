@@ -4,7 +4,7 @@ Fully responsive website with modern UI and UX in ReactJS.
 # Install
 Clone the repository: 
 ```
-git clone https://github.com/Nikaty/gericht-restaurant.git
+git clone https://github.com/Nikaty/AI.git
 ```
 Install dependences:
 ```
